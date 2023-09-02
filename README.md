@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is Esraa
+#### .Net Developer
+![.Net Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+I am Esraa, a student in the College of Computers and Artificial Intelligence and a .NET developer
+
+Skills: HTML / Css /JavaScript /C# / Sql Server / Asp.net Core / Angular / manago Db /C++
 <!--
 **EsraaAseem/EsraaAseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
