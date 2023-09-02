@@ -4,7 +4,16 @@
 
 I am Esraa, a student in the College of Computers and Artificial Intelligence and a .NET developer
 
-Skills: HTML / Css /JavaScript /C# / Sql Server / Asp.net Core / Angular / manago Db /C++
+Skills: 
+* HTML
+*  Css
+*  JavaScript
+*  C#
+*  Sql Server
+*  Asp.net Core
+*  Angular
+*  manago Db
+*  C++
 
 - 🔭 I’m currently working on this page. 
 
