@@ -12,7 +12,7 @@ Skills:
 *  Sql Server
 *  Asp.net Core
 *  Angular
-*  manago Db
+*  Mongodb
 *  C++
 
 - 🔭 I’m currently working on this page. 
