@@ -10,7 +10,7 @@ Skills:
 *  JavaScript
 *  C#
 *  Sql Server
-*  Asp.net Core
+*  Asp.net Core Mvc & Api
 *  Angular
 * Basic of Redis
 * Basic of Signal R
