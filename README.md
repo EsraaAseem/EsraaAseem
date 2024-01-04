@@ -12,7 +12,8 @@ Skills:
 *  Sql Server
 *  Asp.net Core
 *  Angular
-*  Mongodb
+* Basic of Redis
+* Basic of Signal R
 *  C++
 
 - 🔭 I’m currently working on this page. 
