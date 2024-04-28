@@ -5,16 +5,18 @@
 I am Esraa, a student in the College of Computers and Artificial Intelligence and a .NET developer
 
 Skills: 
-* HTML
-*  Css
-*  JavaScript
 *  C#
 *  Sql Server
-*  Asp.net Core Mvc & Api
+*  Dapper & EF
+*  Asp.net Core Api
+*  MVC
+*  Design Patterns
+*  Signal R
+*  Redis
+*  Docker
+*  Knowledge of MongoDb
 *  Angular
-* Basic of Redis
-* Basic of Signal R
-*  C++
+*  Basic of C++
 
 - 🔭 I’m currently working on this page. 
 
