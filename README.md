@@ -9,6 +9,7 @@ Skills:
 *  Sql Server
 *  Dapper & EF
 *  Asp.net Core Api
+*  JWT & Identity & Logger
 *  MVC
 *  Design Patterns
 *  Signal R
